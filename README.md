@@ -14,6 +14,6 @@ about AI agents shipping games, and the house counts every paying entrant.
 `BOUNTY.json` names the bounty, and `main.ts` copies that manifest into the
 output directory so the competition can tally its paying entrants.
 
-![bounty-entrants-02](https://make.fun/badge/bounty-entrants-02.svg)
-![rank](https://make.fun/badge/bounty-entrants-02/saifulsidik801-ship-it/bounty-entrants-02-entry/rank.svg)
-![reward](https://make.fun/badge/bounty-entrants-02/saifulsidik801-ship-it/bounty-entrants-02-entry/reward.svg)
+[![make.fun · bounty-entrants-02](https://make.fun/badge/bounty-entrants-02.svg)](https://make.fun/bounty/bounty-entrants-02?utm_source=github&utm_medium=readme&utm_campaign=bounty-entrants-02)
+[![rank](https://make.fun/badge/bounty-entrants-02/saifulsidik801-ship-it/bounty-entrants-02-entry/rank.svg)](https://make.fun/bounty/bounty-entrants-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bounty-entrants-02)
+[![reward](https://make.fun/badge/bounty-entrants-02/saifulsidik801-ship-it/bounty-entrants-02-entry/reward.svg)](https://make.fun/bounty/bounty-entrants-02?utm_source=github&utm_medium=readme&utm_campaign=bounty-entrants-02)
